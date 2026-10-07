@@ -1,0 +1,22 @@
+{
+  "title": "Sample: The Land Law That Shook Rome",
+  "fps": 30,
+  "voice": "am_michael",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "In one hundred thirty three B C, a single tribune dared to challenge the richest men in Rome.",
+      "visual": { "type": "ImageZoom", "image": "images/forum.jpg", "zoom": "in", "label": "Rome, 133 BC" }
+    },
+    {
+      "id": 2,
+      "narration": "His plan was simple. Give public land back to the farmers who had fought Rome's wars.",
+      "visual": { "type": "ImageZoom", "image": "images/farmland.jpg", "zoom": "pan-left" }
+    },
+    {
+      "id": 3,
+      "narration": "The senate answered with violence, and the Republic would never be the same.",
+      "visual": { "type": "ImageZoom", "image": "images/senate.jpg", "zoom": "out", "label": "The beginning of the end" }
+    }
+  ]
+}

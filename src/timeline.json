@@ -1,0 +1,264 @@
+{
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "total": 614,
+ "scenes": [
+  {
+   "id": 1,
+   "from": 0,
+   "durationInFrames": 232,
+   "audio": "audio/scene-01.wav",
+   "visual": {
+    "type": "ImageZoom",
+    "image": "images/forum.jpg",
+    "zoom": "in",
+    "label": "Rome, 133 BC"
+   },
+   "words": [
+    {
+     "text": "In",
+     "start": 0.0,
+     "end": 0.54
+    },
+    {
+     "text": "133",
+     "start": 0.54,
+     "end": 1.76
+    },
+    {
+     "text": "BC,",
+     "start": 1.76,
+     "end": 2.3
+    },
+    {
+     "text": "a",
+     "start": 3.04,
+     "end": 3.14
+    },
+    {
+     "text": "single",
+     "start": 3.14,
+     "end": 3.48
+    },
+    {
+     "text": "tribune",
+     "start": 3.48,
+     "end": 4.1
+    },
+    {
+     "text": "dared",
+     "start": 4.1,
+     "end": 4.34
+    },
+    {
+     "text": "to",
+     "start": 4.34,
+     "end": 4.6
+    },
+    {
+     "text": "challenge",
+     "start": 4.6,
+     "end": 5.04
+    },
+    {
+     "text": "the",
+     "start": 5.04,
+     "end": 5.3
+    },
+    {
+     "text": "richest",
+     "start": 5.3,
+     "end": 5.58
+    },
+    {
+     "text": "men",
+     "start": 5.58,
+     "end": 5.94
+    },
+    {
+     "text": "in",
+     "start": 5.94,
+     "end": 6.14
+    },
+    {
+     "text": "Rome.",
+     "start": 6.14,
+     "end": 6.44
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "from": 232,
+   "durationInFrames": 202,
+   "audio": "audio/scene-02.wav",
+   "visual": {
+    "type": "ImageZoom",
+    "image": "images/farmland.jpg",
+    "zoom": "pan-left"
+   },
+   "words": [
+    {
+     "text": "His",
+     "start": 0.0,
+     "end": 0.52
+    },
+    {
+     "text": "plan",
+     "start": 0.52,
+     "end": 0.92
+    },
+    {
+     "text": "was",
+     "start": 0.92,
+     "end": 1.14
+    },
+    {
+     "text": "simple",
+     "start": 1.14,
+     "end": 1.52
+    },
+    {
+     "text": "give",
+     "start": 1.52,
+     "end": 2.22
+    },
+    {
+     "text": "public",
+     "start": 2.22,
+     "end": 2.64
+    },
+    {
+     "text": "land",
+     "start": 2.64,
+     "end": 3.02
+    },
+    {
+     "text": "back",
+     "start": 3.02,
+     "end": 3.34
+    },
+    {
+     "text": "to",
+     "start": 3.34,
+     "end": 3.54
+    },
+    {
+     "text": "the",
+     "start": 3.54,
+     "end": 3.64
+    },
+    {
+     "text": "farmers",
+     "start": 3.64,
+     "end": 4.0
+    },
+    {
+     "text": "who",
+     "start": 4.0,
+     "end": 4.28
+    },
+    {
+     "text": "had",
+     "start": 4.28,
+     "end": 4.38
+    },
+    {
+     "text": "fought",
+     "start": 4.38,
+     "end": 4.62
+    },
+    {
+     "text": "Rome's",
+     "start": 4.62,
+     "end": 5.08
+    },
+    {
+     "text": "wars",
+     "start": 5.08,
+     "end": 5.46
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "from": 434,
+   "durationInFrames": 180,
+   "audio": "audio/scene-03.wav",
+   "visual": {
+    "type": "ImageZoom",
+    "image": "images/senate.jpg",
+    "zoom": "out",
+    "label": "The beginning of the end"
+   },
+   "words": [
+    {
+     "text": "The",
+     "start": 0.0,
+     "end": 0.52
+    },
+    {
+     "text": "Senate",
+     "start": 0.52,
+     "end": 0.8
+    },
+    {
+     "text": "answered",
+     "start": 0.8,
+     "end": 1.36
+    },
+    {
+     "text": "with",
+     "start": 1.36,
+     "end": 1.6
+    },
+    {
+     "text": "violence",
+     "start": 1.6,
+     "end": 2.08
+    },
+    {
+     "text": "and",
+     "start": 2.08,
+     "end": 2.82
+    },
+    {
+     "text": "the",
+     "start": 2.82,
+     "end": 2.92
+    },
+    {
+     "text": "Republic",
+     "start": 2.92,
+     "end": 3.38
+    },
+    {
+     "text": "would",
+     "start": 3.38,
+     "end": 3.66
+    },
+    {
+     "text": "never",
+     "start": 3.66,
+     "end": 3.96
+    },
+    {
+     "text": "be",
+     "start": 3.96,
+     "end": 4.22
+    },
+    {
+     "text": "the",
+     "start": 4.22,
+     "end": 4.36
+    },
+    {
+     "text": "same",
+     "start": 4.36,
+     "end": 4.72
+    }
+   ]
+  }
+ ]
+}

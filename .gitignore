@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# build output
+out/
+
+# secrets and OS noise
+.env
+.env.*
+.DS_Store
+Thumbs.db

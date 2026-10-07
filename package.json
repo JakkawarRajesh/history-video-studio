@@ -1,0 +1,22 @@
+{
+  "name": "history-video-studio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts Main out/video.mp4 --codec=h264 --crf=16",
+    "render4k": "remotion render src/index.ts Main out/video-4k.mp4 --codec=h264 --crf=16 --scale=2",
+    "still": "remotion still src/index.ts Main out/frame.png --frame=60"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@remotion/transitions": "^4.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.0",
+    "typescript": "^5.4.0"
+  }
+}
